@@ -13,13 +13,14 @@ class Solution:
     def help(self, root):
         if not root:
             return
-        self.str += str(root.val)
+        self.str += str(root.val) 
         if root.left or root.right:
-            self.str += '('
+            self.str += "("
             self.help(root.left)
-            self.str += ')'
+            self.str += ")"
         if root.right:
-            self.str += '('
+            self.str += "("
             self.help(root.right)
-            self.str += ')'
-        
+            self.str += ")"
+
+        return self.str
