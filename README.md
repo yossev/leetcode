@@ -28,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yossev/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/yossev/leetcode/tree/master/0143-reorder-list) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
