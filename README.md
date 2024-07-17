@@ -5,6 +5,7 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/yossev/leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yossev/leetcode/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -32,6 +33,7 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -67,4 +69,8 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
