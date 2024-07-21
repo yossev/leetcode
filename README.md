@@ -36,6 +36,7 @@ My Leetcode solutions categorized by topics.
 | [0011-container-with-most-water](https://github.com/yossev/leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0238-product-of-array-except-self](https://github.com/yossev/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yossev/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Hash Table
@@ -104,4 +105,8 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yossev/leetcode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/yossev/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
