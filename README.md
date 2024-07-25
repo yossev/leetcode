@@ -32,6 +32,7 @@ My Leetcode solutions categorized by topics.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yossev/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/yossev/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/yossev/leetcode/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/yossev/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/yossev/leetcode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -42,6 +43,7 @@ My Leetcode solutions categorized by topics.
 | [0128-longest-consecutive-sequence](https://github.com/yossev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/yossev/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/yossev/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yossev/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
