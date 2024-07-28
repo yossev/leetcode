@@ -122,6 +122,7 @@ My Leetcode solutions categorized by topics.
 | [0110-balanced-binary-tree](https://github.com/yossev/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yossev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/yossev/leetcode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yossev/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -131,6 +132,7 @@ My Leetcode solutions categorized by topics.
 | [0110-balanced-binary-tree](https://github.com/yossev/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yossev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/yossev/leetcode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yossev/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -138,6 +140,7 @@ My Leetcode solutions categorized by topics.
 | [0100-same-tree](https://github.com/yossev/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yossev/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yossev/leetcode/tree/master/0226-invert-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yossev/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -147,6 +150,7 @@ My Leetcode solutions categorized by topics.
 | [0110-balanced-binary-tree](https://github.com/yossev/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yossev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/yossev/leetcode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yossev/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
