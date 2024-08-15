@@ -129,6 +129,7 @@ My Leetcode solutions categorized by topics.
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yossev/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1362-airplane-seat-assignment-probability](https://github.com/yossev/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Tree
 |  |
 | ------- |
@@ -209,6 +210,7 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/yossev/leetcode/tree/master/0392-is-subsequence) |
+| [1362-airplane-seat-assignment-probability](https://github.com/yossev/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -229,4 +231,12 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/yossev/leetcode/tree/master/0046-permutations) |
+## Brainteaser
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/yossev/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/yossev/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
