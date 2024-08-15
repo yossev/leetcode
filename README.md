@@ -45,6 +45,7 @@ My Leetcode solutions categorized by topics.
 | ------- |
 | [0011-container-with-most-water](https://github.com/yossev/leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/yossev/leetcode/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/yossev/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/yossev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -218,4 +219,8 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/yossev/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/yossev/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
