@@ -83,6 +83,7 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/yossev/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/yossev/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/yossev/leetcode/tree/master/0392-is-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/yossev/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
