@@ -23,6 +23,7 @@ My Leetcode solutions categorized by topics.
 | [0143-reorder-list](https://github.com/yossev/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/yossev/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yossev/leetcode/tree/master/0328-odd-even-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yossev/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yossev/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -153,6 +154,7 @@ My Leetcode solutions categorized by topics.
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yossev/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yossev/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/yossev/leetcode/tree/master/0904-leaf-similar-trees) |
+| [1484-linked-list-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yossev/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -168,6 +170,7 @@ My Leetcode solutions categorized by topics.
 | [0572-subtree-of-another-tree](https://github.com/yossev/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yossev/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/yossev/leetcode/tree/master/0904-leaf-similar-trees) |
+| [1484-linked-list-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yossev/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -177,6 +180,7 @@ My Leetcode solutions categorized by topics.
 | [0102-binary-tree-level-order-traversal](https://github.com/yossev/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yossev/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yossev/leetcode/tree/master/0226-invert-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yossev/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -194,6 +198,7 @@ My Leetcode solutions categorized by topics.
 | [0572-subtree-of-another-tree](https://github.com/yossev/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yossev/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/yossev/leetcode/tree/master/0904-leaf-similar-trees) |
+| [1484-linked-list-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yossev/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Matrix
