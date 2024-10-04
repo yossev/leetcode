@@ -59,6 +59,7 @@ My Leetcode solutions categorized by topics.
 | [0238-product-of-array-except-self](https://github.com/yossev/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/yossev/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0605-can-place-flowers](https://github.com/yossev/leetcode/tree/master/0605-can-place-flowers) |
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/yossev/leetcode/tree/master/1127-last-stone-weight) |
@@ -107,6 +108,7 @@ My Leetcode solutions categorized by topics.
 | [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yossev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yossev/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yossev/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -124,6 +126,7 @@ My Leetcode solutions categorized by topics.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yossev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/yossev/leetcode/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
@@ -222,6 +225,7 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/yossev/leetcode/tree/master/0036-valid-sudoku) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yossev/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Greedy
 |  |
@@ -262,6 +266,7 @@ My Leetcode solutions categorized by topics.
 | [0098-validate-binary-search-tree](https://github.com/yossev/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yossev/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yossev/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/yossev/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yossev/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## String Matching
