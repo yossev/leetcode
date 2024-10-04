@@ -61,6 +61,7 @@ My Leetcode solutions categorized by topics.
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/yossev/leetcode/tree/master/0605-can-place-flowers) |
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/yossev/leetcode/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/yossev/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yossev/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yossev/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -124,6 +125,7 @@ My Leetcode solutions categorized by topics.
 | [0215-kth-largest-element-in-an-array](https://github.com/yossev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/yossev/leetcode/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
