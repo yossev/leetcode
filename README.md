@@ -9,6 +9,7 @@ My Leetcode solutions categorized by topics.
 | [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yossev/leetcode/tree/master/0155-min-stack) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yossev/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yossev/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/yossev/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yossev/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
@@ -47,6 +48,7 @@ My Leetcode solutions categorized by topics.
 | [0392-is-subsequence](https://github.com/yossev/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/yossev/leetcode/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yossev/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yossev/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yossev/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
@@ -103,6 +105,7 @@ My Leetcode solutions categorized by topics.
 | [0392-is-subsequence](https://github.com/yossev/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/yossev/leetcode/tree/master/0567-permutation-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/yossev/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yossev/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/yossev/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/yossev/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/yossev/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -239,6 +242,7 @@ My Leetcode solutions categorized by topics.
 | [0605-can-place-flowers](https://github.com/yossev/leetcode/tree/master/0605-can-place-flowers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yossev/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/yossev/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yossev/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Prefix Sum
 |  |
 | ------- |
