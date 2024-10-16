@@ -273,6 +273,7 @@ My Leetcode solutions categorized by topics.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/yossev/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/yossev/leetcode/tree/master/0392-is-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/yossev/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Binary Search Tree
@@ -323,4 +324,5 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/yossev/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0338-counting-bits](https://github.com/yossev/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
