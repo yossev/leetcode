@@ -66,6 +66,7 @@ My Leetcode solutions categorized by topics.
 | [0283-move-zeroes](https://github.com/yossev/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/yossev/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/yossev/leetcode/tree/master/0605-can-place-flowers) |
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/yossev/leetcode/tree/master/1127-last-stone-weight) |
@@ -121,6 +122,7 @@ My Leetcode solutions categorized by topics.
 | [0215-kth-largest-element-in-an-array](https://github.com/yossev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/yossev/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yossev/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yossev/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -246,6 +248,7 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yossev/leetcode/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/yossev/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/yossev/leetcode/tree/master/0605-can-place-flowers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yossev/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/yossev/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -276,6 +279,7 @@ My Leetcode solutions categorized by topics.
 | ------- |
 | [0338-counting-bits](https://github.com/yossev/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/yossev/leetcode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/yossev/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1362-airplane-seat-assignment-probability](https://github.com/yossev/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Binary Search Tree
 |  |
