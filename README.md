@@ -333,4 +333,8 @@ My Leetcode solutions categorized by topics.
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/yossev/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/yossev/leetcode/tree/master/0338-counting-bits) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/yossev/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
