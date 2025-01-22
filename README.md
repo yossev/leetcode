@@ -79,6 +79,7 @@ My Leetcode solutions categorized by topics.
 | [1741-sort-array-by-increasing-frequency](https://github.com/yossev/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yossev/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/yossev/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1876-map-of-highest-peak](https://github.com/yossev/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yossev/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/yossev/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/yossev/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -216,6 +217,7 @@ My Leetcode solutions categorized by topics.
 | [0226-invert-binary-tree](https://github.com/yossev/leetcode/tree/master/0226-invert-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/yossev/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yossev/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -244,6 +246,7 @@ My Leetcode solutions categorized by topics.
 | [0036-valid-sudoku](https://github.com/yossev/leetcode/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yossev/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1876-map-of-highest-peak](https://github.com/yossev/leetcode/tree/master/1876-map-of-highest-peak) |
 ## Greedy
 |  |
 | ------- |
