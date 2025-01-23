@@ -74,6 +74,7 @@ My Leetcode solutions categorized by topics.
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yossev/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yossev/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/yossev/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1396-count-servers-that-communicate](https://github.com/yossev/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yossev/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yossev/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yossev/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -154,6 +155,7 @@ My Leetcode solutions categorized by topics.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/yossev/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1396-count-servers-that-communicate](https://github.com/yossev/leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Quickselect
 |  |
 | ------- |
@@ -205,6 +207,7 @@ My Leetcode solutions categorized by topics.
 | [0572-subtree-of-another-tree](https://github.com/yossev/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yossev/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/yossev/leetcode/tree/master/0904-leaf-similar-trees) |
+| [1396-count-servers-that-communicate](https://github.com/yossev/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yossev/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -215,6 +218,7 @@ My Leetcode solutions categorized by topics.
 | [0102-binary-tree-level-order-traversal](https://github.com/yossev/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yossev/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yossev/leetcode/tree/master/0226-invert-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/yossev/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/yossev/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -245,6 +249,7 @@ My Leetcode solutions categorized by topics.
 | ------- |
 | [0036-valid-sudoku](https://github.com/yossev/leetcode/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/yossev/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yossev/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1876-map-of-highest-peak](https://github.com/yossev/leetcode/tree/master/1876-map-of-highest-peak) |
 ## Greedy
@@ -265,6 +270,7 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yossev/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/yossev/leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Merge Sort
 |  |
 | ------- |
