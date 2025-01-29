@@ -205,6 +205,7 @@ My Leetcode solutions categorized by topics.
 | [0386-lexicographical-numbers](https://github.com/yossev/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/yossev/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yossev/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/yossev/leetcode/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yossev/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/yossev/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1396-count-servers-that-communicate](https://github.com/yossev/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -219,6 +220,7 @@ My Leetcode solutions categorized by topics.
 | [0102-binary-tree-level-order-traversal](https://github.com/yossev/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yossev/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yossev/leetcode/tree/master/0226-invert-binary-tree) |
+| [0684-redundant-connection](https://github.com/yossev/leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/yossev/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yossev/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -272,6 +274,7 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yossev/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/yossev/leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/yossev/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yossev/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Merge Sort
@@ -349,6 +352,7 @@ My Leetcode solutions categorized by topics.
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/yossev/leetcode/tree/master/0684-redundant-connection) |
 | [1916-find-center-of-star-graph](https://github.com/yossev/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yossev/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
