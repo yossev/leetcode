@@ -13,6 +13,7 @@ My Leetcode solutions categorized by topics.
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yossev/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/yossev/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yossev/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/yossev/leetcode/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -117,6 +118,7 @@ My Leetcode solutions categorized by topics.
 | [2502-sort-the-people](https://github.com/yossev/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/yossev/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yossev/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/yossev/leetcode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -319,6 +321,7 @@ My Leetcode solutions categorized by topics.
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/yossev/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yossev/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/yossev/leetcode/tree/master/3447-clear-digits) |
 ## Backtracking
 |  |
 | ------- |
