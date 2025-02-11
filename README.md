@@ -10,6 +10,7 @@ My Leetcode solutions categorized by topics.
 | [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yossev/leetcode/tree/master/0155-min-stack) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yossev/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yossev/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yossev/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/yossev/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yossev/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -113,6 +114,7 @@ My Leetcode solutions categorized by topics.
 | [0434-number-of-segments-in-a-string](https://github.com/yossev/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yossev/leetcode/tree/master/0567-permutation-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/yossev/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yossev/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yossev/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/yossev/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/yossev/leetcode/tree/master/2502-sort-the-people) |
@@ -319,6 +321,7 @@ My Leetcode solutions categorized by topics.
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yossev/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/yossev/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yossev/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/yossev/leetcode/tree/master/3447-clear-digits) |
