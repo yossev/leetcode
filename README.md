@@ -84,6 +84,7 @@ My Leetcode solutions categorized by topics.
 | [1833-find-the-highest-altitude](https://github.com/yossev/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/yossev/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yossev/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yossev/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/yossev/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/yossev/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yossev/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -101,6 +102,7 @@ My Leetcode solutions categorized by topics.
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yossev/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yossev/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yossev/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yossev/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/yossev/leetcode/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yossev/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -134,6 +136,7 @@ My Leetcode solutions categorized by topics.
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yossev/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yossev/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yossev/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yossev/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/yossev/leetcode/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -149,6 +152,7 @@ My Leetcode solutions categorized by topics.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/yossev/leetcode/tree/master/1127-last-stone-weight) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yossev/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
 | ------- |
