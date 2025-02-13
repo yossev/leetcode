@@ -87,6 +87,7 @@ My Leetcode solutions categorized by topics.
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yossev/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/yossev/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/yossev/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yossev/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yossev/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -153,6 +154,7 @@ My Leetcode solutions categorized by topics.
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/yossev/leetcode/tree/master/1127-last-stone-weight) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yossev/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yossev/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -328,6 +330,7 @@ My Leetcode solutions categorized by topics.
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yossev/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/yossev/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yossev/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yossev/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/yossev/leetcode/tree/master/3447-clear-digits) |
 ## Backtracking
 |  |
