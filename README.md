@@ -79,6 +79,7 @@ My Leetcode solutions categorized by topics.
 | [1396-count-servers-that-communicate](https://github.com/yossev/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yossev/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yossev/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yossev/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yossev/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yossev/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/yossev/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -178,6 +179,7 @@ My Leetcode solutions categorized by topics.
 | [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yossev/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1362-airplane-seat-assignment-probability](https://github.com/yossev/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yossev/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Tree
 |  |
 | ------- |
@@ -279,6 +281,7 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yossev/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yossev/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/yossev/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Union Find
 |  |
@@ -306,6 +309,7 @@ My Leetcode solutions categorized by topics.
 | [0392-is-subsequence](https://github.com/yossev/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/yossev/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1362-airplane-seat-assignment-probability](https://github.com/yossev/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yossev/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
