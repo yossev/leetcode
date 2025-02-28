@@ -45,6 +45,7 @@ My Leetcode solutions categorized by topics.
 | [0011-container-with-most-water](https://github.com/yossev/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yossev/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yossev/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/yossev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/yossev/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/yossev/leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/yossev/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -61,6 +62,7 @@ My Leetcode solutions categorized by topics.
 | [0036-valid-sudoku](https://github.com/yossev/leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/yossev/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/yossev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/yossev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yossev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -129,6 +131,7 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/yossev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yossev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
