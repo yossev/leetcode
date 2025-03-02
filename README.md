@@ -56,6 +56,7 @@ My Leetcode solutions categorized by topics.
 | [1798-max-number-of-k-sum-pairs](https://github.com/yossev/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yossev/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yossev/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yossev/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +92,7 @@ My Leetcode solutions categorized by topics.
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yossev/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yossev/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/yossev/leetcode/tree/master/2502-sort-the-people) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yossev/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/yossev/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yossev/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yossev/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -112,6 +114,7 @@ My Leetcode solutions categorized by topics.
 | [1798-max-number-of-k-sum-pairs](https://github.com/yossev/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yossev/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/yossev/leetcode/tree/master/2502-sort-the-people) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yossev/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yossev/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
