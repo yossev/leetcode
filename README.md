@@ -39,6 +39,7 @@ My Leetcode solutions categorized by topics.
 | [0021-merge-two-sorted-lists](https://github.com/yossev/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/yossev/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/yossev/leetcode/tree/master/0206-reverse-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/yossev/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +196,7 @@ My Leetcode solutions categorized by topics.
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yossev/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1362-airplane-seat-assignment-probability](https://github.com/yossev/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yossev/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/yossev/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
@@ -352,6 +354,7 @@ My Leetcode solutions categorized by topics.
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yossev/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yossev/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/yossev/leetcode/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/yossev/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -378,6 +381,7 @@ My Leetcode solutions categorized by topics.
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/yossev/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/yossev/leetcode/tree/master/0338-counting-bits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/yossev/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Database
 |  |
 | ------- |
