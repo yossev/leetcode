@@ -142,6 +142,7 @@ My Leetcode solutions categorized by topics.
 | [2502-sort-the-people](https://github.com/yossev/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/yossev/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yossev/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3396-valid-word](https://github.com/yossev/leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/yossev/leetcode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
