@@ -69,6 +69,7 @@ My Leetcode solutions categorized by topics.
 | [0046-permutations](https://github.com/yossev/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yossev/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/yossev/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/yossev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yossev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -333,6 +334,7 @@ My Leetcode solutions categorized by topics.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/yossev/leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/yossev/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/yossev/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/yossev/leetcode/tree/master/0435-non-overlapping-intervals) |
