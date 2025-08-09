@@ -39,6 +39,7 @@ My Leetcode solutions categorized by topics.
 | [0021-merge-two-sorted-lists](https://github.com/yossev/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/yossev/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/yossev/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/yossev/leetcode/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yossev/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -204,6 +205,7 @@ My Leetcode solutions categorized by topics.
 | ------- |
 | [0002-add-two-numbers](https://github.com/yossev/leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/yossev/leetcode/tree/master/0231-power-of-two) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yossev/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1362-airplane-seat-assignment-probability](https://github.com/yossev/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yossev/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -396,6 +398,7 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/yossev/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/yossev/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/yossev/leetcode/tree/master/0338-counting-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yossev/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Database
