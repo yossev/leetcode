@@ -144,6 +144,7 @@ My Leetcode solutions categorized by topics.
 | [1341-split-a-string-in-balanced-strings](https://github.com/yossev/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yossev/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yossev/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/yossev/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/yossev/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/yossev/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/yossev/leetcode/tree/master/2727-number-of-senior-citizens) |
