@@ -213,6 +213,7 @@ My Leetcode solutions categorized by topics.
 | [0342-power-of-four](https://github.com/yossev/leetcode/tree/master/0342-power-of-four) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yossev/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1362-airplane-seat-assignment-probability](https://github.com/yossev/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
+| [1448-maximum-69-number](https://github.com/yossev/leetcode/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yossev/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yossev/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
@@ -311,6 +312,7 @@ My Leetcode solutions categorized by topics.
 | [0605-can-place-flowers](https://github.com/yossev/leetcode/tree/master/0605-can-place-flowers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yossev/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/yossev/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1448-maximum-69-number](https://github.com/yossev/leetcode/tree/master/1448-maximum-69-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yossev/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yossev/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/yossev/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
