@@ -108,6 +108,7 @@ My Leetcode solutions categorized by topics.
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/yossev/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yossev/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yossev/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/yossev/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/yossev/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/yossev/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -173,6 +174,7 @@ My Leetcode solutions categorized by topics.
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yossev/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yossev/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/yossev/leetcode/tree/master/2502-sort-the-people) |
+| [3748-sort-matrix-by-diagonals](https://github.com/yossev/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -309,6 +311,7 @@ My Leetcode solutions categorized by topics.
 | [1396-count-servers-that-communicate](https://github.com/yossev/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yossev/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1876-map-of-highest-peak](https://github.com/yossev/leetcode/tree/master/1876-map-of-highest-peak) |
+| [3748-sort-matrix-by-diagonals](https://github.com/yossev/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
 | ------- |
