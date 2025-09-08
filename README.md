@@ -219,6 +219,7 @@ My Leetcode solutions categorized by topics.
 | [0342-power-of-four](https://github.com/yossev/leetcode/tree/master/0342-power-of-four) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yossev/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1362-airplane-seat-assignment-probability](https://github.com/yossev/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/yossev/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/yossev/leetcode/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yossev/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yossev/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
