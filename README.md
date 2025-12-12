@@ -66,6 +66,7 @@ My Leetcode solutions categorized by topics.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yossev/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yossev/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/yossev/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/yossev/leetcode/tree/master/0036-valid-sudoku) |
@@ -114,6 +115,7 @@ My Leetcode solutions categorized by topics.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yossev/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/yossev/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/yossev/leetcode/tree/master/0128-longest-consecutive-sequence) |
