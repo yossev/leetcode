@@ -12,7 +12,6 @@ class Solution(object):
             if curr_sum > target:
                 r -= 1
             elif curr_sum < target:
-                l -= 1
-            elif curr_sum == target:
+                l += 1
+            else:
                 return [l + 1, r + 1]
-        return []
