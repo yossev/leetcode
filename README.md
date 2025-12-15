@@ -9,6 +9,7 @@ My Leetcode solutions categorized by topics.
 | [0145-binary-tree-postorder-traversal](https://github.com/yossev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yossev/leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/yossev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yossev/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yossev/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yossev/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -85,6 +86,7 @@ My Leetcode solutions categorized by topics.
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/yossev/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/yossev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/yossev/leetcode/tree/master/0605-can-place-flowers) |
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/yossev/leetcode/tree/master/1127-last-stone-weight) |
@@ -127,6 +129,7 @@ My Leetcode solutions categorized by topics.
 | [0290-word-pattern](https://github.com/yossev/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/yossev/leetcode/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/yossev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/yossev/leetcode/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/yossev/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/yossev/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -446,4 +449,8 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/yossev/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/yossev/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
