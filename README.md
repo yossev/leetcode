@@ -11,6 +11,7 @@ My Leetcode solutions categorized by topics.
 | [0155-min-stack](https://github.com/yossev/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/yossev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yossev/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yossev/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yossev/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yossev/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/yossev/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -99,6 +100,7 @@ My Leetcode solutions categorized by topics.
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yossev/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yossev/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yossev/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yossev/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yossev/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yossev/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yossev/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -453,4 +455,5 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/yossev/leetcode/tree/master/0496-next-greater-element-i) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yossev/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
