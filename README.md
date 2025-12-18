@@ -60,6 +60,7 @@ My Leetcode solutions categorized by topics.
 | [0151-reverse-words-in-a-string](https://github.com/yossev/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yossev/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/yossev/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yossev/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/yossev/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/yossev/leetcode/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yossev/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -85,6 +86,7 @@ My Leetcode solutions categorized by topics.
 | [0215-kth-largest-element-in-an-array](https://github.com/yossev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/yossev/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/yossev/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yossev/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/yossev/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -386,6 +388,7 @@ My Leetcode solutions categorized by topics.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yossev/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yossev/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yossev/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/yossev/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/yossev/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yossev/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -436,6 +439,7 @@ My Leetcode solutions categorized by topics.
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/yossev/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/yossev/leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/yossev/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/yossev/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/yossev/leetcode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yossev/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
