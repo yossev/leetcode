@@ -99,6 +99,7 @@ My Leetcode solutions categorized by topics.
 | [0496-next-greater-element-i](https://github.com/yossev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yossev/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/yossev/leetcode/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/yossev/leetcode/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/yossev/leetcode/tree/master/1127-last-stone-weight) |
 | [1253-sort-the-matrix-diagonally](https://github.com/yossev/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -357,6 +358,7 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yossev/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/yossev/leetcode/tree/master/0724-find-pivot-index) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yossev/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/yossev/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Union Find
