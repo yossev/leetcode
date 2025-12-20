@@ -17,6 +17,8 @@ class Solution(object):
         pLeft = dummy
         pos = 1
 
+
+        # Reach the left poition and set a pLeft on it
         while pos < left:
             pLeft = pLeft.next
             pos += 1
@@ -35,7 +37,7 @@ class Solution(object):
         
         
         pLeft.next.next = curr   # tail connects to remainder
-        pLeft.next = prev 
+        pLeft.next = prev # Connect to the Reversed head
         
 
         return dummy.next
