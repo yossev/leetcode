@@ -1,5 +1,6 @@
 class NumArray:
 
+    # Init Doesnt count in space and time complexity analysis
     def __init__(self, nums: List[int]):
         # Create the Prefix sum array
 
