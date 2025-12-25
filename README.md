@@ -151,6 +151,7 @@ My Leetcode solutions categorized by topics.
 | [0290-word-pattern](https://github.com/yossev/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/yossev/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/yossev/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/yossev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/yossev/leetcode/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/yossev/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -176,6 +177,7 @@ My Leetcode solutions categorized by topics.
 | [0242-valid-anagram](https://github.com/yossev/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/yossev/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/yossev/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/yossev/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/yossev/leetcode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/yossev/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yossev/leetcode/tree/master/0567-permutation-in-string) |
@@ -199,6 +201,7 @@ My Leetcode solutions categorized by topics.
 | [0242-valid-anagram](https://github.com/yossev/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yossev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/yossev/leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/yossev/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/yossev/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -459,6 +462,7 @@ My Leetcode solutions categorized by topics.
 | [0287-find-the-duplicate-number](https://github.com/yossev/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/yossev/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/yossev/leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/yossev/leetcode/tree/master/0389-find-the-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yossev/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Database
 |  |
