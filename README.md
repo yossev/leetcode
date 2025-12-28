@@ -116,6 +116,7 @@ My Leetcode solutions categorized by topics.
 | [1333-sort-the-jumbled-numbers](https://github.com/yossev/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/yossev/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/yossev/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yossev/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yossev/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yossev/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -351,6 +352,7 @@ My Leetcode solutions categorized by topics.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/yossev/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1396-count-servers-that-communicate](https://github.com/yossev/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yossev/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1876-map-of-highest-peak](https://github.com/yossev/leetcode/tree/master/1876-map-of-highest-peak) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yossev/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -414,6 +416,7 @@ My Leetcode solutions categorized by topics.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/yossev/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yossev/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yossev/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/yossev/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
 |  |
