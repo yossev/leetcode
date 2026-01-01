@@ -90,6 +90,7 @@ My Leetcode solutions categorized by topics.
 | [0036-valid-sudoku](https://github.com/yossev/leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/yossev/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/yossev/leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/yossev/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yossev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/yossev/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/yossev/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -255,6 +256,7 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yossev/leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/yossev/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/yossev/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yossev/leetcode/tree/master/0326-power-of-three) |
