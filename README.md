@@ -110,6 +110,7 @@ My Leetcode solutions categorized by topics.
 | [0605-can-place-flowers](https://github.com/yossev/leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/yossev/leetcode/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/yossev/leetcode/tree/master/0948-sort-an-array) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/yossev/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1127-last-stone-weight](https://github.com/yossev/leetcode/tree/master/1127-last-stone-weight) |
 | [1253-sort-the-matrix-diagonally](https://github.com/yossev/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1319-unique-number-of-occurrences](https://github.com/yossev/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -158,6 +159,7 @@ My Leetcode solutions categorized by topics.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yossev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yossev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/yossev/leetcode/tree/master/0567-permutation-in-string) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/yossev/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/yossev/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/yossev/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yossev/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
