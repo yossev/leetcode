@@ -10,6 +10,7 @@ My Leetcode solutions categorized by topics.
 | [0150-evaluate-reverse-polish-notation](https://github.com/yossev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yossev/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yossev/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/yossev/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/yossev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yossev/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yossev/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -24,6 +25,7 @@ My Leetcode solutions categorized by topics.
 | ------- |
 | [0155-min-stack](https://github.com/yossev/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yossev/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/yossev/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/yossev/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/yossev/leetcode/tree/master/0838-design-linked-list) |
 ## Linked List
@@ -503,4 +505,5 @@ My Leetcode solutions categorized by topics.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yossev/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/yossev/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
