@@ -28,6 +28,7 @@ My Leetcode solutions categorized by topics.
 | [0232-implement-queue-using-stacks](https://github.com/yossev/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/yossev/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/yossev/leetcode/tree/master/0838-design-linked-list) |
+| [0969-number-of-recent-calls](https://github.com/yossev/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
@@ -506,4 +507,9 @@ My Leetcode solutions categorized by topics.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yossev/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yossev/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0969-number-of-recent-calls](https://github.com/yossev/leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/yossev/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
