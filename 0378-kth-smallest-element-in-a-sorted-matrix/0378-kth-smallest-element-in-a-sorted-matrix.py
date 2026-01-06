@@ -1,17 +1,15 @@
-class Solution(object):
-    def kthSmallest(self, matrix, k):
-        """
-        :type matrix: List[List[int]]
-        :type k: int
-        :rtype: int
-        """
-        m = sum(matrix, []) # Better than a nested loop
-        heapq.heapify(m) 
+class Solution:
+    def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
+        # Flatten The Matrix from 2D to 1D
+        m = sum(matrix, [])
+        # Turn this into a priority Queue / Heap
+        heapq.heapify(m)
 
-        for i in range( k-1 ):
+        # Keep Popping till we reach kth element
+        for i in range(k-1):
             heapq.heappop(m)
         
 
-        return heapq.heappop(m) # Since the rest isnt important
+        # Finally pop the kth element and return it
 
-
+        return heapq.heappop(m)
