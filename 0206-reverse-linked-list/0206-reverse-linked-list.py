@@ -16,9 +16,8 @@ class Solution(object):
         while curr:
             _next = curr.next
             curr.next = prev
-
+            
             prev = curr
             curr = _next
-            
         
         return prev
