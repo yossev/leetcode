@@ -5,8 +5,10 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        s_sorted = ''.join(sorted(s))
-        t_sorted = ''.join(sorted(t))
+        # Sort both and compare
+        sorted_s = ''.join(sorted(s))
+        sorted_t = ''.join(sorted(t))
 
-        return s_sorted == t_sorted
+        return sorted_s == sorted_t
+     
         
