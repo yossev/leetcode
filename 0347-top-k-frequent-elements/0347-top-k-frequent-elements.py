@@ -5,11 +5,11 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        hashmap = {}
+        counts = {}
         for i in nums:
-            if i not in hashmap:
-                hashmap[i] = 0
-            hashmap[i] += 1
-        
-
-        return [item[0] for item in heapq.nlargest(k, hashmap.items(), key=lambda x: x[1])]
+            if i not in counts:
+                counts[i] = 0
+            counts[i] += 1
+        sorted_items = sorted(counts.items(), key=lambda x: x[1], reverse=True)
+        result = [num for num, freq in sorted_items[:k]]
+        return result
