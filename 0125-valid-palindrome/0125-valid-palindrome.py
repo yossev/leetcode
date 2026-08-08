@@ -7,7 +7,9 @@ class Solution(object):
         l = 0
         r = len(s) - 1
 
-        while(l < r):
+
+        while (l < r):
+            # Skip non-alphanum
             if not s[l].isalnum():
                 l += 1
             elif not s[r].isalnum():
@@ -18,4 +20,3 @@ class Solution(object):
             else:
                 return False
         return True
-            
